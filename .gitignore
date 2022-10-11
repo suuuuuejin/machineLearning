@@ -6,4 +6,8 @@
 ## 폴더 무시
 data/
 
+<<<<<<< HEAD
 # git rm --cached data/ -r
+=======
+# git rm --cached data/ -r
+>>>>>>> d3daf736100efcda6dbeca9be1e6a20e07cd32e1
